@@ -2,6 +2,27 @@
 
 This repository is dedicated to exploring the concept of **Requirement Analysis** in software development.
 
-## 📌 Purpose
+## Purpose
 
 The purpose of this repository is to provide a clear understanding of the key activities involved in requirement analysis, such as elicitation, documentation, modeling, and validation. It includes examples, templates, and best practices for defining software project scope and avoiding scope creep.
+## What is Requirement Analysis?
+
+**Requirement Analysis** is a critical phase in the Software Development Life Cycle (SDLC) where the needs and expectations of stakeholders are gathered, analyzed, and documented to define the functional and non-functional requirements of a software system.
+
+This process involves understanding *what* the users need from the system and *why* they need it. It serves as a foundation for all subsequent phases such as design, development, testing, and deployment. During requirement analysis, business analysts, system analysts, and developers work closely with stakeholders through interviews, surveys, observations, and workshops to ensure that the final product aligns with the intended purpose.
+
+### Key Activities in Requirement Analysis:
+- **Requirement Elicitation** – Gathering requirements from stakeholders.
+- **Requirement Documentation** – Writing clear and structured requirement specifications.
+- **Requirement Modeling** – Creating diagrams and models to visualize requirements.
+- **Requirement Validation** – Ensuring requirements are complete, correct, and approved by stakeholders.
+- **Requirement Prioritization** – Identifying which requirements are most critical.
+
+### Importance in SDLC:
+- **Defines the project scope clearly** and prevents scope creep.
+- **Improves communication** among stakeholders, developers, and project managers.
+- **Reduces rework** by ensuring the system is built right the first time.
+- **Guides project planning** and resource allocation.
+- **Ensures user satisfaction** by aligning the final product with user needs.
+
+Requirement Analysis is not a one-time activity—it continues throughout the lifecycle as new insights and changes emerge. A well-executed requirement analysis significantly increases the likelihood of project success.
